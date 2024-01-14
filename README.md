@@ -1,7 +1,7 @@
-# 💫 Hi Im Yusuf Kağan Kılıç
-🔭 I’m currently working on Full Stack development
-🌱 I’m currently learning Node.js
-💬 Ask me about React.js, Javascript and HTML/CSS
+# 💫 Hi Im Yusuf Kağan Kılıç<br/>
+🔭 I’m currently working on Full Stack development<br/>
+🌱 I’m currently learning Node.js<br/>
+💬 Ask me about React.js, Javascript and HTML/CSS<br/>
 
 
 <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="150" height="150" style="display:none;">
