@@ -24,7 +24,6 @@
 |---|---|
 | **[LiveDub](https://github.com/yusufkaanklc/livedub)** | Real-time speech translation and dubbing for Windows and macOS (Gemini Live Translate, OpenAI Realtime) |
 | **[MyHome AI](https://apps.apple.com/app/id6761047383)** | iOS app that redesigns a room, garden or facade from a single photo — Superblend |
-| **[Vidora AI](https://getvidora.app/)** | iPhone app that turns a selfie or a sentence into a short video — Superblend, coming soon |
 | **Shorts Studio** | AI content studio: finds Shorts ideas, writes with Claude, voices with a cloned voice, renders on a cloud GPU |
 | **[Derman Ocak](https://derman.yusufkaanklc.dev/)** | Client product site with an in-browser sinus self-assessment |
 
